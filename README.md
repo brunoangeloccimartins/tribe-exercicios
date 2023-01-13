@@ -1,2 +1,1 @@
-# tribe-exercicios
-Exercícios Trybe
+# Meu repositório de exercícios
